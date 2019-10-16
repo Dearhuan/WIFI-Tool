@@ -1,6 +1,7 @@
 # WIFI-Tool
 
-使用Python中的pywifi模块来对wifi密码进行获取并连接wifi
+使用Python中的pywifi模块来对wifi密码进行获取并连接wifi(测试使用)
+注：需要wifi密码字典，例如：wifiDict.txt
 
 1.安装pywifi模块
 
